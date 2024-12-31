@@ -23,7 +23,7 @@
 
 ## Status
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=hazemtaahaa.hazemtaahaa)  
+![Profile Views](https://komarev.com/ghpvc/?username=hazemtaahaa&color=blue&style=flat-square)
 
 ![Hazem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazemtaahaa&show_icons=true&theme=radical)  
 
