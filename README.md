@@ -1,3 +1,4 @@
+<h1 align="center">Hi , I'm Hazem Taha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 # Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>, Welcome to My GitHub Profile!👋
 
 ---
@@ -11,6 +12,18 @@
 - 🏗️ Projects will be added soon. Stay tuned for updates!  
 
 ---
+<br>
+
+<br>
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazemtaahaa&theme=algolia" alt="HazemTaha" />
+</p>
+
+<br>
+
+
 
 ## Skills & Technologies
 
