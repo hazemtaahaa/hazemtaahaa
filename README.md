@@ -1,6 +1,19 @@
 <h1 align="center">Hi , I'm Hazem Taha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 # Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>, Welcome to My GitHub Profile!👋
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Graduate;FullStack+Web+developer+.Net+@ITI;Problem+Solver;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+
+
+<br>
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=hazemtaahaa&label=Profile%20views&color=0e75b6&style=plastic" alt="Hazem" /> 
+</p>
+
+
+
 ---
 
 ## About Me
@@ -14,16 +27,21 @@
 ---
 <br>
 
-<br>
-
 ## 🔥 Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazemtaahaa&theme=algolia" alt="HazemTaha" />
 </p>
 
 <br>
+## <picture> <img src="https://media.giphy.com/media/UmbybxMJ3sRvKBV5qw/giphy.gif" width = 50px></picture> Connect with me
+<p align="center">
+<a href="mailto:hazemtahabasher@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/hazemtaahaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://https://www.linkedin.com/in/hazem-taha-me/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	
+</p>
 
-
+<br>
 
 ## Skills & Technologies
 
@@ -42,14 +60,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hazemtaahaa&layout=compact&theme=radical)  
 
-> **Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 ---
 
-## Connect with Me 🌐
-
-- 📧 **Gmail**: [hazemtahabasher@gmail.com](mailto:hazemtahabasher@gmail.com)  
-- 🌐 **GitHub**: [Hazem Taha](https://github.com/hazemtaahaa)  
-- 💼 **LinkedIn**: [Hazem Taha](https://www.linkedin.com/in/hazem-taha-me/)  
 
 ---
