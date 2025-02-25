@@ -24,10 +24,11 @@
 
 ---
 
+
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazemtaahaa&theme=algolia" alt="Hazem Taha's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=hazemtaahaa&theme=algolia" alt="Hazem Taha's GitHub Streak" />
 </p>
 
 <br>
